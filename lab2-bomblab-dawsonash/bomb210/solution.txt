@@ -1,0 +1,11 @@
+It is easier to make a correct program fast, than to make a fast program correct.
+
+1 2 4 8 16 32
+
+5   -900
+
+7 7
+
+02469m
+
+2 3 1 5 4 6
